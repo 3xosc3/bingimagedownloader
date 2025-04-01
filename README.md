@@ -1,10 +1,11 @@
 **Как установить?**
 
 Надо установить пару библотек. Для этого надо в cmd от имени администратора прописать следующие команды:
+```
+ pip install Pillow
 
-	<sup> pip install Pillow
-	<sup> pip install requests beautifulsoup4 
-
+ pip install requests beautifulsoup4 
+```
 Если выходит ошибка, то тут ничем не помогу.
 
 Далее, надо запустить .py файл в Python IDLE. После этого нажать f5, и всё должно заработать.
